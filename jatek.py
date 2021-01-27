@@ -5,7 +5,7 @@ Created on Tue Jan 26 12:30:19 2021
 
 @author: david
 """
-##
+
 from random import randint
 
 compwin=0
